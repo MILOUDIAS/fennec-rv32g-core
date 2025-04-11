@@ -46,8 +46,8 @@ This repository contains a single-cycle RISC-V RV32I core written in SystemVeril
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/riscv-rv32g-core.git
-cd riscv-rv32g-core
+git clone https://github.com/yourusername/fennec-rv32g-core.git
+cd fennec-rv32g-core
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
