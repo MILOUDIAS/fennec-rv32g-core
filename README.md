@@ -55,10 +55,10 @@ pip install -r requirements.txt
 
 ### Running Tests
 
-Current single-cycle implementation tests:
+Current single_cycle implementation tests:
 
 ```bash
-cd rtl/single-cycle/tb && pytest test_runner.py -s
+cd rtl/single_cycle/tb && pytest test_runner.py -s
 ```
 
 Future pipeline tests (when implemented maybe will use only make like this):
