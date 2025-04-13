@@ -50,7 +50,7 @@ git clone https://github.com/yourusername/fennec-rv32g-core.git
 cd fennec-rv32g-core
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+pip install cocotb        # pip install -r requirements.txt in the future
 ```
 
 ### Running Tests
