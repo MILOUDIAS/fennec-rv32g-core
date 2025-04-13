@@ -1,4 +1,4 @@
-# RISC-V RV32I Core with G Extension Implementation
+# RISC-V RV32 Core with G Extension Implementation
 
 ## Overview
 
