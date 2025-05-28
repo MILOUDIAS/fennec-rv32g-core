@@ -8,7 +8,7 @@ module load_store_decoder (
     output logic [31:0] data
 );
 
-import holy_core_pkg::*;
+import core_pkg::*;
 
 logic [1:0] offset;
 
